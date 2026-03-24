@@ -4,6 +4,7 @@ config/*
 secret/*
 
 # VSCode-generated files
-*.pyc
-.vscode
-.venv
+*.pyc/
+.vscode/
+.venv/
+.vs/
